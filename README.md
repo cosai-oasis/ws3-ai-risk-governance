@@ -34,7 +34,7 @@ Using badges is optional, but they are a nice way to show some key facts and sta
 You can use this section to give a brief overview of what can be found in this repository, e.g. documentation, meeting minutes, or templates. A good example of this can be found in the README of the [OASIS OpenC2 TC repository](https://github.com/oasis-tcs/openc2-tc-ops/blob/main/README.md).
 Please make sure to update it on a regular basis – when new files or folder are added to the repository.-->
 
-## Contributing - TBD, doc needs to be approved by TSC
+## Contributing 
 
 Please see the [CoSAI Contributing Policy](./CONTRIBUTING.md) for more details.
 
