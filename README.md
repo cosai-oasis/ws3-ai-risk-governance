@@ -14,6 +14,11 @@ This repository is for the work of the CoSAI Workstream 3, AI Risk Governance. C
 ### About this workstream
 The goal of this workstream is to develop a risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. Further information can be found [here](https://github.com/cosai-oasis/oasis-open-project/blob/main/WORKSTREAMS.md).
 
+### Workstream Leads
+* Jay White, Microsoft
+* Lauren Clark, Thomson Reuters
+* Manhar Arora, EY
+
 <!--## Badges [optional – TBD]
 
 Using badges is optional, but they are a nice way to show some key facts and stats about your project at a glance. There are badges for all kinds of things relating to your repository, e.g. to show the license you're using, the programming language, the number of forks, or a CI badge to show build/test status. Be mindful not to use too many badges. You can use [Shields](http://shields.io/) to add some to your README. Many services also have instructions for adding a badge. Check out the README of the Open Cybersecurity Alliance project [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) to see badges in action.
