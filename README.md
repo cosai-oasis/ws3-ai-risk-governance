@@ -15,9 +15,8 @@ This repository is for the work of the CoSAI Workstream 3, AI Risk Governance. C
 The goal of this workstream is to develop a risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. Further information can be found [here](https://github.com/cosai-oasis/oasis-open-project/blob/main/WORKSTREAMS.md).
 
 ### Workstream Leads
-* Jay White, Microsoft
+* David Kliemann, IBM
 * Lauren Clark, Thomson Reuters
-* Manhar Arora, EY
 
 <!--## Badges [optional – TBD]
 
