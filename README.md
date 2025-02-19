@@ -7,12 +7,12 @@ Further README inspiration can be found [here](https://www.makeareadme.com/) and
 You may copy and edit this template as you see fit for your project and your community. You are also welcome to use emojis, graphics or images in your README. This file should be reviewed regularly and kept up-to-date.]-->
 
 
-## CoSAI Workstream 3: AI Risk Governance
+## CoSAI Workstream 3: AI Security Risk Governance
 
 This repository is for the work of the CoSAI Workstream 3, AI Risk Governance. CoSAI is an [OASIS Open Project](https://www.oasis-open.org/open-projects/) and an open ecosystem of AI and security experts from industry leading organizations dedicated to sharing best practices for secure AI deployment and collaborating on AI security research and product development. For more information on CoSAI, please visit the [CoSAI website](https://www.coalitionforsecureai.org/) and the [Open Project repository](https://github.com/cosai-oasis/oasis-open-project) which has information governance and the project charter.
 
 ### About this workstream
-The goal of this workstream is to develop a risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. Further information can be found [here](https://github.com/cosai-oasis/oasis-open-project/blob/main/WORKSTREAMS.md).
+The goal of this workstream is to develop a security-focused risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. Further information can be found [here](https://github.com/cosai-oasis/oasis-open-project/blob/main/WORKSTREAMS.md).
 
 ### Workstream Leads
 * David Kliemann, IBM
