@@ -47,7 +47,7 @@ Please see the [CoSAI Contributing Policy](./CONTRIBUTING.md) for more details.
 Adds names / GitHub profile links for those who have contributed to this repository. If you have a maintainer's list, link to it here.-->
 
 ## Support
-For issues or features, please use Github issues. You can also join the workstream mailing list by posting an empty email to [cosai-risk-governance-ws@lists.oasis-open-projects.org ](mailto:cosai-supply-chain-ws+subscribe@lists.oasis-open-projects.org). You can read the mailing list archive [here](https://lists.oasis-open-projects.org/g/cosai-risk-governance-ws/topics).
+For issues or features, please use Github issues. You can also join the workstream mailing list by posting an empty email to [cosai-risk-governance-ws@lists.oasis-open-projects.org ](mailto:cosai-risk-governance-ws+subscribe@lists.oasis-open-projects.org). You can read the mailing list archive [here](https://lists.oasis-open-projects.org/g/cosai-risk-governance-ws/topics).
 
 You can also join us on Slack via [this link](https://join.slack.com/t/cosai-op/shared_invite/zt-2rbgqtolg-GdajCyOiddYtGJ3cSdk1Jg) and introduce yourself in the #ws3-risk-governance channel
 
