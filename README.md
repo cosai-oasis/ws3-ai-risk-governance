@@ -40,20 +40,18 @@ Please make sure to update it on a regular basis – when new files or folder ar
 
 ## Description
 
-Artificial intelligence (AI) is rapidly transforming industries, with organizations increasingly integrating AI systems into critical decision-making processes and infrastructure. While AI offers immense potential for efficiency and innovation, it also introduces a complex set of security risks that require proactive governance and risk management strategies. 
+The rapid integration of Artificial Intelligence (AI) into critical organizational processes and infrastructure introduces complex security risks. Proactive security governance and risk management are essential to mitigate these challenges.
 
-As AI systems becomes more fundamental to organization execution and success the potential impacts of security breaches, data poisoning, model evasion, adversarial attacks, and system vulnerabilities grow exponentially. Existing, classical security frameworks and standards provide organizations with a blueprint for deploying secure technical infrastructures but they do not fully address the unique challenges posed by AI systems. Addressing these challenges necessitates both the extension of traditional frameworks and standards to cover AI system control requirements and the development of specialized AI system security risk governance solutions.
+Organizations increasing reliance on AI systems amplifies the impact of security breaches, data poisoning, model evasion, adversarial attacks, and system vulnerabilities. Existing security frameworks provide a necessary foundation, but are insufficient for these unique challenges. Therefore, extending traditional frameworks and developing specialized AI security risk governance solutions are crucial.
 
-[CoSAI's Workstream 3: AI Security Risk Governance](https://github.com/cosai-oasis/ws3-ai-risk-governance) aims to provide organizations with the critical insights and tools needed to navigate this complex landscape. Our goal is to enable security teams and technology leadership to proactively identify, assess, and mitigate the risks associated with AI system integration and deployment, while also aligning with emerging AI sysetm security standards and regulatory security requirements.
+[CoSAI's Workstream 3: AI Security Risk Governance](https://github.com/cosai-oasis/ws3-ai-risk-governance) will empower organizations to navigate the complexities of AI system security. We will deliver methodologies, critical insights, and tools for proactively identifying, assessing, and mitigating risks in alignment with evolving AI security standards and regulations.
 
 ### Key Areas of Focus
 
-Our aim is to equip organizations with the knowledge, tools, and strategies required to manage their current and future security-related AI system risks. To achieve this aim, this workstream will focus on:
-
-* Approaches and tools to enable organizations to effectively identify and assess AI system security risks  
-* Develop and/or extend security risk governance frameworks to address AI system challenges
-* Provide guidance and best practices enabling organizations to prioritize security risk mitigation investments related to AI system security
-* Partner and collaborate with the larger ecosystem to provide solid technical guidance to inform emerging AI regulations, standards, and best practices
+* Developing tools and methodologies for AI security risk identification and assessment  
+* Extending and developing security risk governance frameworks tailored for AI systems
+* Provide guidance and best practices on prioritizing AI security risk mitigation investments
+* Collaborating with the broader technical ecosystem to provide strong security risk management guidance for use in the development of security standards, regulation, and best practices
 
 ## Contributing 
 
