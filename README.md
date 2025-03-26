@@ -16,7 +16,7 @@ The goal of this workstream is to develop a security-focused risk and controls t
 
 ### Workstream Leads
 * David Kliemann, IBM
-* Lauren Clark, Thomson Reuters
+* David LaBianca, Google
 
 <!--## Badges [optional – TBD]
 
@@ -37,6 +37,23 @@ Using badges is optional, but they are a nice way to show some key facts and sta
 
 You can use this section to give a brief overview of what can be found in this repository, e.g. documentation, meeting minutes, or templates. A good example of this can be found in the README of the [OASIS OpenC2 TC repository](https://github.com/oasis-tcs/openc2-tc-ops/blob/main/README.md).
 Please make sure to update it on a regular basis – when new files or folder are added to the repository.-->
+
+## Description
+
+Artificial intelligence (AI) is rapidly transforming industries, with organizations increasingly integrating AI systems into critical decision-making processes and infrastructure. While AI offers immense potential for efficiency and innovation, it also introduces a complex set of security risks that require proactive governance and risk management strategies. 
+
+As AI systems becomes more fundamental to organization execution and success the potential impacts of security breaches, data poisoning, model evasion, adversarial attacks, and system vulnerabilities grow exponentially. Existing, classical security frameworks and standards provide organizations with a blueprint for deploying secure technical infrastructures but they do not fully address the unique challenges posed by AI systems. Addressing these challenges necessitates both the extension of traditional frameworks and standards to cover AI system control requirements and the development of specialized AI system security risk governance solutions.
+
+[CoSAI's Workstream 3: AI Security Risk Governance](https://github.com/cosai-oasis/ws3-ai-risk-governance) aims to provide organizations with the critical insights and tools needed to navigate this complex landscape. Our goal is to enable security teams and technology leadership to proactively identify, assess, and mitigate the risks associated with AI system integration and deployment, while also aligning with emerging AI sysetm security standards and regulatory security requirements.
+
+### Key Areas of Focus
+
+Our aim is to equip organizations with the knowledge, tools, and strategies required to manage their current and future security-related AI system risks. To achieve this aim, this workstream will focus on:
+
+* Approaches and tools to enable organizations to effectively identify and assess AI system security risks  
+* Develop and/or extend security risk governance frameworks to address AI system challenges
+* Provide guidance and best practices enabling organizations to prioritize security risk mitigation investments related to AI system security
+* Partner and collaborate with the larger ecosystem to provide solid technical guidance to inform emerging AI regulations, standards, and best practices
 
 ## Contributing 
 
