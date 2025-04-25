@@ -16,7 +16,7 @@ The goal of this workstream is to develop a security-focused risk and controls t
 
 ### Workstream Leads
 * David Kliemann, IBM
-* Lauren Clark, Thomson Reuters
+* David LaBianca, Google
 
 <!--## Badges [optional – TBD]
 
@@ -37,6 +37,21 @@ Using badges is optional, but they are a nice way to show some key facts and sta
 
 You can use this section to give a brief overview of what can be found in this repository, e.g. documentation, meeting minutes, or templates. A good example of this can be found in the README of the [OASIS OpenC2 TC repository](https://github.com/oasis-tcs/openc2-tc-ops/blob/main/README.md).
 Please make sure to update it on a regular basis – when new files or folder are added to the repository.-->
+
+## Description
+
+The rapid integration of Artificial Intelligence (AI) into critical organizational processes and infrastructure introduces complex security risks. Proactive security governance and risk management are essential to mitigate these challenges.
+
+Organizations increasing reliance on AI systems amplifies the impact of security breaches, data poisoning, model evasion, adversarial attacks, and system vulnerabilities. Existing security frameworks provide a necessary foundation, but are insufficient for these unique challenges. Therefore, extending traditional frameworks and developing specialized AI security risk governance solutions are crucial.
+
+[CoSAI's Workstream 3: AI Security Risk Governance](https://github.com/cosai-oasis/ws3-ai-risk-governance) will empower organizations to navigate the complexities of AI system security. We will deliver methodologies, critical insights, and tools for proactively identifying, assessing, and mitigating risks in alignment with evolving AI security standards and regulations.
+
+### Key Areas of Focus
+
+* Developing tools and methodologies for AI security risk identification and assessment  
+* Extending and developing security risk governance frameworks tailored for AI systems
+* Provide guidance and best practices on prioritizing AI security risk mitigation investments
+* Collaborating with the broader technical ecosystem to provide strong security risk management guidance for use in the development of security standards, regulation, and best practices
 
 ## Contributing 
 
