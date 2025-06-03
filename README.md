@@ -55,7 +55,7 @@ Organizations increasing reliance on AI systems amplifies the impact of security
 
 ## Contributing 
 
-Please see the [CoSAI Contributing Policy](./CONTRIBUTING.md) for more details.
+Check out our [onboarding guidance for new participants](https://github.com/cosai-oasis/oasis-open-project/blob/main/ONBOARDING.md) and please see the [CoSAI Contributing policy](./CONTRIBUTING.md) for more details.
 
 <!--## Authors and Maintainers
 
