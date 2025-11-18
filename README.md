@@ -15,8 +15,9 @@ This repository is for the work of the CoSAI Workstream 3, AI Risk Governance. C
 The goal of this workstream is to develop a security-focused risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. Further information can be found [here](https://github.com/cosai-oasis/oasis-open-project/blob/main/WORKSTREAMS.md).
 
 ### Workstream Leads
-* David Kliemann, IBM
-* David LaBianca, Google
+* Christina Freeman, Red Hat
+* Shrey Bagga (Cisco)
+* Zeal Somani (Evinova)
 
 <!--## Badges [optional – TBD]
 
