@@ -70,28 +70,6 @@ Known areas to evaluate include:
 * Whether privacy guidance should be added or expanded in CodeGuard-adjacent controls
 * Where threat modeling needs to go beyond CodeGuard into SDLC, governance, provenance, monitoring, and human oversight concerns
 
-## Current Work
-
-The active work items are:
-
-* Draft stakeholder user stories and needs
-* Select one SDLC stage for the first threat and controls table
-* Define reference architecture elements and trust boundaries for AI-assisted coding systems
-* Build a threat actor, threat, incident, and control database that can support visualization and mapping
-* Identify candidate sources for incident data and supporting evidence, including public AI incident databases
-* Decide which artifacts should live as narrative documentation, structured data, diagrams, or machine-readable prompts and skills
-
-## Roadmap
-
-1. Establish this working area and README as the front door for the threat modeling effort.
-2. Draft personas, stakeholder needs, and user stories for the primary audiences.
-3. Build the first threat and controls table for one SDLC stage.
-4. Define common architecture elements, data flows, and trust boundaries.
-5. Expand the threat and controls model across the remaining SDLC stages.
-6. Map threats and controls to CodeGuard, OWASP, CoSAI-RM, NIST AI RMF, SLSA, ASVS, and other relevant frameworks where useful.
-7. Add threat trees or visual models for easier review and communication.
-8. Publish machine-readable artifacts that can be reused by teams, tools, prompts, or skills.
-
 ## Good First Engagement
 
 Good first contributions include:
